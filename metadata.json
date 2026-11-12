@@ -1,0 +1,6 @@
+{
+  "name": "Калейдоскоп — Оптический симулятор",
+  "description": "Интерактивный симулятор калейдоскопа с несколькими режимами, загрузкой цветовых палитр, зеркальной оптикой и экспортом в PNG и видео.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
